@@ -31,7 +31,7 @@ function App() {
 
         </header>
         <div className="main-title">
-          <h1 className="title">the rick and morty APIs</h1>
+          <h1 className="title">the rick and morty API</h1>
         </div>
         <div className="p-20">
           <div className="intro">
